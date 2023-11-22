@@ -140,7 +140,11 @@ void insta_liberaImagem(asciiImg_t* img) {
 
 // Fim do código fornecido pelo professor
 // ----------------------------------------------------------------------------------------------------------------------------
-
+/*Coltegram desnvolvido por
+    Lucas Lemos Ricaldoni
+    Matheus Procopio Fonseca 
+    Todos os direitos reservados à ambos
+*/
 /* Inclusões */
 #include <stdio.h>
 #include <ctype.h>
